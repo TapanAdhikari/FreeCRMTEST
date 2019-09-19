@@ -1,0 +1,10 @@
+2019-09-18 23:02:57,104  INFO [main] TestBase:55 - Launching Chrome Browser
+2019-09-18 23:03:03,536  INFO [main] TestBase:75 - Entering Application URL
+2019-09-18 23:03:10,013  INFO [main] TestBase:55 - Launching Chrome Browser
+2019-09-18 23:03:16,541  INFO [main] TestBase:75 - Entering Application URL
+2019-09-18 23:03:23,981  INFO [main] TestBase:55 - Launching Chrome Browser
+2019-09-18 23:03:31,199  INFO [main] TestBase:75 - Entering Application URL
+2019-09-18 23:03:39,920  INFO [main] TestBase:55 - Launching Chrome Browser
+2019-09-18 23:03:47,207  INFO [main] TestBase:75 - Entering Application URL
+2019-09-18 23:03:48,078  WARN [main] TestBase:51 - This is just a fake warning
+2019-09-18 23:03:48,078 FATAL [main] TestBase:52 - This is just a fake fatal warning....deliberately given
